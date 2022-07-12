@@ -30,4 +30,9 @@ Building a repository which will help a __Novice Data Science Enthusiast__, unde
 
 Every section will contain notebooks with day numbers. Reading through the notebook will not only give you an idea about the day's topic, but also will run a code which will implement what we've just learnt. Each module will have a DIY assignment along with an appropriate folder structure. After finishing the assignments and projects along the way, you will gain immense amount of knowledge and deep intuitions on data science concepts.
 
+__System Requirements__
+* Anaconda
+* mySQL
+* Microsoft Excel with Data Analysis Plugin
+
 *This repository is under progress. Kindly [follow](https://github.com/pavankumarbalijepalli) or star to get updates. This readme will be updated when ever there is change of plan.*
