@@ -1,6 +1,7 @@
 # Data Science Bootcamp
 
 Building a repository which will help a __Novice Data Science Enthusiast__, understand where to start from, and what decisions he/she need to make in order to __build a career in data science__. The Learning Path will be divided into __FOUR__ levels:
+
 - __Level 0__
   * Mathematics - Linear Algebra, Calculus, Probability
   * Databases - DDL, DML, DCL, TCL of SQL. Inner, outer, left, right joins
@@ -25,14 +26,17 @@ Building a repository which will help a __Novice Data Science Enthusiast__, unde
 
 - __Level 3__
   - Data Science Resources - Git Repositories, Social Networks, Communities
-  - Shifting to Data Science - Transitional Discomfort, Cracking Interviews
-  - Keeping up with the Technology - Learner's mindset, Finding good blogs about Data Science.
+  - Shifting to Data Science - Transitional Discomfort, Resume Templates, Cracking Interviews
+  - Keeping up with the Technology - Learner's mindset, Reading Research Papers, Finding good blogs about Data Science.
 
 __System Requirements__
-* Anaconda
-* mySQL
-* Microsoft Excel with Data Analysis Plugin
+* [VS Code](https://code.visualstudio.com/download)
+* [Anaconda](https://www.anaconda.com/products/distribution)
+* [mySQL](https://www.mysql.com/downloads/)
+* [Microsoft Excel](https://office.live.com/start/Excel.aspx)
 
 Every section will contain notebooks with day numbers. Reading through the notebook will not only give you an idea about the day's topic, but also will run a code which will implement what we've just learnt. Each module will have a DIY assignment along with an appropriate folder structure. After finishing the assignments and projects along the way, you will gain immense amount of knowledge and deep intuitions on data science concepts.
 
 *This repository is under progress. Kindly [follow](https://github.com/pavankumarbalijepalli) or star to get updates. This readme will be updated when ever there is change of plan.*
+
+*__Clone this repository and open using VSCode for clear understanding through markdown files. Open markdown files and hit `Ctrl + Shift + V` to see the structured markdown file.__*
