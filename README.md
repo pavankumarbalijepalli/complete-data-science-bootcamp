@@ -4,8 +4,8 @@ Building a repository which will help a __Novice Data Science Enthusiast__, unde
 
 - __Level 0__
   * Mathematics - Linear Algebra, Calculus, Probability
-  * Databases - DDL, DML, DCL, TCL of SQL. Inner, outer, left, right joins
-  * Programming Languages - conditional statements to file accessing in Python/R. Coding standards and folder structures are also covered.
+  * Databases - DDL, DML, DCL, TCL of SQL. Inner, Outer, Left, Right joins
+  * Programming Languages - Conditional statements to File accessing in Python. Coding standards and folder structures are also covered.
   * Tools - Jupyter Notebooks, Excel
   
 - __Level 1__
