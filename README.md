@@ -6,7 +6,7 @@ Building a repository which will help a __Novice Data Science Enthusiast__, unde
   * Mathematics - Linear Algebra, Calculus, Probability
   * Databases - DDL, DML, DCL, TCL of SQL. Inner, Outer, Left, Right joins
   * Programming Languages - Conditional statements to File accessing in Python. Coding standards and folder structures are also covered.
-  * Tools - Jupyter Notebooks, Excel
+  * Tools - Jupyter Notebooks, Excel, Python Libraries such as Numpy and Pandas.
   
 - __Level 1__
   - Statistics - Confidence Intervals, Hypothesis Testing
