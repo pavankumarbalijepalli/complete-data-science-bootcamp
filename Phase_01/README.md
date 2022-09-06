@@ -9,7 +9,7 @@ __Steps to follow__:
     * Use `Letter:` to go to 'Letter: Drive'. Example: `D:` will take you to D: Drive.
 * After reaching the working directory, type `jupyter lab` to run jupyter.
 * This will open a chrome window, which has navigator on left and workspace on right.
-* Then go to `Phase_00/Jupyter_Notebooks` to find `Day_0.ipynb` jupyter notebook.
+* Then go to `Phase_01/00_Statistics` to find `Book_X.ipynb` jupyter notebook.
 * `Double click` on it to start your journey. 
 
 Happy Learning.
