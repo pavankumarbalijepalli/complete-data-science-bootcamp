@@ -3,7 +3,7 @@
 Building a repository which will help a __Novice Data Science Enthusiast__, understand where to start from, and what decisions he/she need to make in order to __build a career in data science__. The Learning Path will be divided into __FOUR__ phases:
 
 |                                                               Stage                                                                    | Expected Time | Date of completion | Status | Pavan |
-|----------------------------------------------------------------------------------------------------------------------------------------|---------------|--------------------|--------|-------|
+|----------------------------------------------------------------------------------------------------------------------------------------|---------------|--------------------|:------:|-------|
 | __Phase 0__                                                                                                                                |               |                    | 🌑      | Pavan |
 | * Mathematics - Linear Algebra, Calculus, Probability                                                                                  |               |                    | 🌑      | Pavan |
 | * Databases - DDL, DML, DCL, TCL of SQL. Inner, Outer, Left, Right joins                                                               |               |                    | 🌑      | Pavan |
