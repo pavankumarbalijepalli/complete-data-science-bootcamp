@@ -35,7 +35,7 @@ Building a repository which will help a __Novice Data Science Enthusiast__, unde
 | * Text2Audio - HuggingFace Transformer Models, Making inference from LLMs, Fine tuning LLMs with custom dataset                          |               |                    | 🌑      | Pavan |
 | * Image2Video - HuggingFace Transformer Models, Making inference from LLMs, Fine tuning LLMs with custom dataset                         |               |                    | 🌑      | Pavan |
 | * MultiModal - HuggingFace Transformer Models, Making inference from LLMs, Fine tuning LLMs with custom dataset                          |               |                    | 🌑      | Pavan |
-| __Phase 4__                                                                                                                              |               |                    | 🌑      | Pavan |
+| __Phase 5__                                                                                                                              |               |                    | 🌑      | Pavan |
 | * RAG - Retrieval Augmented Generation. Working with Documents.                                                                          |               |                    | 🌑      | Pavan |
 | * Agents - Langchain Agents. Agentic approach to LLMs. Agent based function calling usecases.                                            |               |                    | 🌑      | Pavan |
 | * MultiModal RAG - Retrieval Augmented Generation. Working with Images, Documents, and Videos.                                           |               |                    | 🌑      | Pavan |
